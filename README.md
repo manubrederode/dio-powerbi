@@ -22,3 +22,8 @@ O objetivo era criar uma interface visualmente atraente e funcional para analisa
 - Gráfico de Barra.
 - Gráfico de Funil.
 - Cartões de resumo.
+
+## Processando e Transformando Dados com Power BI
+
+- Inserção de dados e queries
+- Script BD Company
